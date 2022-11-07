@@ -1,0 +1,15 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/api/mytest"
+      },
+      "response": {
+        "status": 200,
+        "body": "Some content\n",
+        "fixedDelayMilliseconds": 500
+      }
+    }
+  ]
+}
